@@ -1,5 +1,8 @@
 # ReactPortfolio
  A personal portfolio created using React.js that will showcase personal projects.
+ 
+# `PROJECT STILL UNDER DEVELOPMENT`
+
 
 # Development Instructions
 - To begin running the app, navigate into the app's working directory
